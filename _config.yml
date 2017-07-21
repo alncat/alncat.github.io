@@ -10,8 +10,8 @@ title: Alncat's Personal Site
 email: zhenwei.luo@rice.edu
 description: > # this means to ignore newlines until "baseurl:"
     I am a graduate student in Rice University's Applied Physics program.
-    My current research is mainly about developing novel crystallographic 
-    methods. In spare time, I am an android developer, an artificial intelligence learner and an algorithm designer.
+    My current research is mainly about developing novel optimization 
+    methods.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://alncat.github.io" # the base hostname & protocol for your site
 twitter_username: tlzw
